@@ -1,6 +1,8 @@
+# README
+
 This is a simple blog i've made using Ruby on Rails by following this course :  https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course 
 
-You can check the final result here : https://redi-alphablog.herokuapp.com/articles/1
+You can check the final result here : https://redi-alphablog.herokuapp.com
 
 Admin credentials : 
 
